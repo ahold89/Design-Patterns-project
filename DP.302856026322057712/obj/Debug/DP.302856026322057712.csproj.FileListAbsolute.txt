@@ -1,0 +1,38 @@
+C:\Users\aschreib\Desktop\A16 Ex02 Yotam 302856026 Asher 322057712\DP.302856026322057712\obj\Debug\DP.302856026322057712.exe
+C:\Users\aschreib\Desktop\A16 Ex02 Yotam 302856026 Asher 322057712\DP.302856026322057712\obj\Debug\DP.302856026322057712.pdb
+C:\Users\aschreib\Desktop\A16 Ex02 Yotam 302856026 Asher 322057712\DP.302856026322057712\obj\Debug\DP.302856026322057712.csprojResolveAssemblyReference.cache
+C:\Users\aschreib\Desktop\A16 Ex02 Yotam 302856026 Asher 322057712\DP.302856026322057712\obj\Debug\DP._302856026322057712.FormCreateAlbum.resources
+C:\Users\aschreib\Desktop\A16 Ex02 Yotam 302856026 Asher 322057712\DP.302856026322057712\obj\Debug\DP._302856026322057712.FormMain.resources
+C:\Users\aschreib\Desktop\A16 Ex02 Yotam 302856026 Asher 322057712\DP.302856026322057712\obj\Debug\DP._302856026322057712.FormHoroscope.resources
+C:\Users\aschreib\Desktop\A16 Ex02 Yotam 302856026 Asher 322057712\DP.302856026322057712\obj\Debug\DP._302856026322057712.Properties.Resources.resources
+C:\Users\aschreib\Desktop\A16 Ex02 Yotam 302856026 Asher 322057712\DP.302856026322057712\obj\Debug\DP._302856026322057712.FormUploadPhoto.resources
+C:\Users\aschreib\Desktop\A16 Ex02 Yotam 302856026 Asher 322057712\DP.302856026322057712\obj\Debug\DP._302856026322057712.FormWatchPhotos.resources
+C:\Users\aschreib\Desktop\A16 Ex02 Yotam 302856026 Asher 322057712\DP.302856026322057712\obj\Debug\DP.302856026322057712.csproj.GenerateResource.Cache
+C:\Users\aschreib\Desktop\A16 Ex02 Yotam 302856026 Asher 322057712\DP.302856026322057712\bin\Debug\DP.302856026322057712.exe
+C:\Users\aschreib\Desktop\A16 Ex02 Yotam 302856026 Asher 322057712\DP.302856026322057712\bin\Debug\DP.302856026322057712.pdb
+C:\Users\aschreib\Desktop\A16 Ex03 Yotam 302856026 Asher 322057712\DP.302856026322057712\obj\Debug\DP.302856026322057712.exe
+C:\Users\aschreib\Desktop\A16 Ex03 Yotam 302856026 Asher 322057712\DP.302856026322057712\obj\Debug\DP.302856026322057712.pdb
+C:\Users\aschreib\Desktop\A16 Ex03 Yotam 302856026 Asher 322057712\DP.302856026322057712\bin\Debug\DP.302856026322057712.exe
+C:\Users\aschreib\Desktop\A16 Ex03 Yotam 302856026 Asher 322057712\DP.302856026322057712\bin\Debug\DP.302856026322057712.pdb
+C:\Users\aschreib\Desktop\A16 Ex03 Yotam 302856026 Asher 322057712\DP.302856026322057712\obj\Debug\DP.302856026322057712.csprojResolveAssemblyReference.cache
+C:\Users\aschreib\Desktop\A16 Ex03 Yotam 302856026 Asher 322057712\DP.302856026322057712\obj\Debug\DP._302856026322057712.FormCreateAlbum.resources
+C:\Users\aschreib\Desktop\A16 Ex03 Yotam 302856026 Asher 322057712\DP.302856026322057712\obj\Debug\DP._302856026322057712.FormMain.resources
+C:\Users\aschreib\Desktop\A16 Ex03 Yotam 302856026 Asher 322057712\DP.302856026322057712\obj\Debug\DP._302856026322057712.FormHoroscope.resources
+C:\Users\aschreib\Desktop\A16 Ex03 Yotam 302856026 Asher 322057712\DP.302856026322057712\obj\Debug\DP._302856026322057712.Properties.Resources.resources
+C:\Users\aschreib\Desktop\A16 Ex03 Yotam 302856026 Asher 322057712\DP.302856026322057712\obj\Debug\DP._302856026322057712.FormUploadPhoto.resources
+C:\Users\aschreib\Desktop\A16 Ex03 Yotam 302856026 Asher 322057712\DP.302856026322057712\obj\Debug\DP._302856026322057712.FormWatchPhotos.resources
+C:\Users\aschreib\Desktop\A16 Ex03 Yotam 302856026 Asher 322057712\DP.302856026322057712\obj\Debug\DP.302856026322057712.csproj.GenerateResource.Cache
+C:\Users\aschreib\Desktop\A16 Ex03 Yotam 302856026 Asher 322057712\DP.302856026322057712\obj\Debug\DP._302856026322057712.FormInformer.resources
+C:\Users\aschreib\Documents\Visual Studio 2013\Projects\A16 Ex03 Yotam 302856026 Asher 322057712\DP.302856026322057712\obj\Debug\DP.302856026322057712.exe
+C:\Users\aschreib\Documents\Visual Studio 2013\Projects\A16 Ex03 Yotam 302856026 Asher 322057712\DP.302856026322057712\obj\Debug\DP.302856026322057712.pdb
+C:\Users\aschreib\Documents\Visual Studio 2013\Projects\A16 Ex03 Yotam 302856026 Asher 322057712\DP.302856026322057712\bin\Debug\DP.302856026322057712.exe
+C:\Users\aschreib\Documents\Visual Studio 2013\Projects\A16 Ex03 Yotam 302856026 Asher 322057712\DP.302856026322057712\bin\Debug\DP.302856026322057712.pdb
+C:\Users\aschreib\Documents\Visual Studio 2013\Projects\A16 Ex03 Yotam 302856026 Asher 322057712\DP.302856026322057712\obj\Debug\DP.302856026322057712.csprojResolveAssemblyReference.cache
+C:\Users\aschreib\Documents\Visual Studio 2013\Projects\A16 Ex03 Yotam 302856026 Asher 322057712\DP.302856026322057712\obj\Debug\DP._302856026322057712.FormCreateAlbum.resources
+C:\Users\aschreib\Documents\Visual Studio 2013\Projects\A16 Ex03 Yotam 302856026 Asher 322057712\DP.302856026322057712\obj\Debug\DP._302856026322057712.FormInformer.resources
+C:\Users\aschreib\Documents\Visual Studio 2013\Projects\A16 Ex03 Yotam 302856026 Asher 322057712\DP.302856026322057712\obj\Debug\DP._302856026322057712.FormMain.resources
+C:\Users\aschreib\Documents\Visual Studio 2013\Projects\A16 Ex03 Yotam 302856026 Asher 322057712\DP.302856026322057712\obj\Debug\DP._302856026322057712.FormHoroscope.resources
+C:\Users\aschreib\Documents\Visual Studio 2013\Projects\A16 Ex03 Yotam 302856026 Asher 322057712\DP.302856026322057712\obj\Debug\DP._302856026322057712.Properties.Resources.resources
+C:\Users\aschreib\Documents\Visual Studio 2013\Projects\A16 Ex03 Yotam 302856026 Asher 322057712\DP.302856026322057712\obj\Debug\DP._302856026322057712.FormUploadPhoto.resources
+C:\Users\aschreib\Documents\Visual Studio 2013\Projects\A16 Ex03 Yotam 302856026 Asher 322057712\DP.302856026322057712\obj\Debug\DP._302856026322057712.FormWatchPhotos.resources
+C:\Users\aschreib\Documents\Visual Studio 2013\Projects\A16 Ex03 Yotam 302856026 Asher 322057712\DP.302856026322057712\obj\Debug\DP.302856026322057712.csproj.GenerateResource.Cache

@@ -1,0 +1,162 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{9CD6C838-CD2A-41A4-A0FD-1191AA965A40}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>DP._302856026322057712</RootNamespace>
+    <AssemblyName>DP.302856026322057712</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Facebook, Version=6.0.10.0, Culture=neutral, PublicKeyToken=58cb4f2111d1e6de, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\..\..\Desktop\design2\01_FB01_BasicFacebookFeatures.V6.8.0.14\FBApi\Facebook.dll</HintPath>
+    </Reference>
+    <Reference Include="FbGraphApiWrapper, Version=6.8.0.13, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\..\..\Desktop\design2\01_FB01_BasicFacebookFeatures.V6.8.0.14\FBApi\FbGraphApiWrapper.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Astrology.cs" />
+    <Compile Include="DelayedStatus.cs" />
+    <Compile Include="FormCreateAlbum.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormCreateAlbum.Designer.cs">
+      <DependentUpon>FormCreateAlbum.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormInformer.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormInformer.Designer.cs">
+      <DependentUpon>FormInformer.cs</DependentUpon>
+    </Compile>
+    <Compile Include="HoroscopeFacade.cs" />
+    <Compile Include="FormMain.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormMain.Designer.cs">
+      <DependentUpon>FormMain.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormHoroscope.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormHoroscope.Designer.cs">
+      <DependentUpon>FormHoroscope.cs</DependentUpon>
+    </Compile>
+    <Compile Include="HoroscopeLogic.cs" />
+    <Compile Include="ILoadPicture.cs" />
+    <Compile Include="Informer.cs" />
+    <Compile Include="LoadEventOwnerPicture.cs" />
+    <Compile Include="LoadEventPicture.cs" />
+    <Compile Include="Logger.cs" />
+    <Compile Include="PostDelayedStatusLogic.cs" />
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="RegularStatus.cs" />
+    <Compile Include="StatusFactory.cs" />
+    <Compile Include="StatusFromUser.cs" />
+    <Compile Include="FormUploadPhoto.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormUploadPhoto.Designer.cs">
+      <DependentUpon>FormUploadPhoto.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormWatchPhotos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormWatchPhotos.Designer.cs">
+      <DependentUpon>FormWatchPhotos.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="FormCreateAlbum.resx">
+      <DependentUpon>FormCreateAlbum.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormInformer.resx">
+      <DependentUpon>FormInformer.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormMain.resx">
+      <DependentUpon>FormMain.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormHoroscope.resx">
+      <DependentUpon>FormHoroscope.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="FormUploadPhoto.resx">
+      <DependentUpon>FormUploadPhoto.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormWatchPhotos.resx">
+      <DependentUpon>FormWatchPhotos.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="Properties\DataSources\FacebookWrapper.ObjectModel.Album+eType.datasource" />
+    <None Include="Properties\DataSources\FacebookWrapper.ObjectModel.Album.datasource" />
+    <None Include="Properties\DataSources\FacebookWrapper.ObjectModel.DynamicWrapper+eLoadOptions.datasource" />
+    <None Include="Properties\DataSources\FacebookWrapper.ObjectModel.Event+ePrivacy.datasource" />
+    <None Include="Properties\DataSources\FacebookWrapper.ObjectModel.Event+eRsvpType.datasource" />
+    <None Include="Properties\DataSources\FacebookWrapper.ObjectModel.Group+ePrivacy.datasource" />
+    <None Include="Properties\DataSources\FacebookWrapper.ObjectModel.OwnerObject+ePostTarget.datasource" />
+    <None Include="Properties\DataSources\FacebookWrapper.ObjectModel.Post+eType.datasource" />
+    <None Include="Properties\DataSources\FacebookWrapper.ObjectModel.User+eGender.datasource" />
+    <None Include="Properties\DataSources\FacebookWrapper.ObjectModel.User+eOnlineStatus.datasource" />
+    <None Include="Properties\DataSources\FacebookWrapper.ObjectModel.User+eRelationshipStatus.datasource" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

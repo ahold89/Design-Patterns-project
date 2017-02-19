@@ -1,0 +1,15 @@
+1/25/2016 10:05:11 PM: LoggedIn
+1/25/2016 10:05:19 PM: Delayed Status was written.
+1/25/2016 10:06:20 PM: LoggedOut
+
+
+4/24/2016 12:51:28 AM: LoggedIn
+4/24/2016 12:51:48 AM: Delayed Status was written.
+4/24/2016 1:24:49 AM: LoggedOut
+
+
+8/29/2016 7:47:31 PM: LoggedIn
+8/29/2016 7:47:42 PM: Regular Status was written.
+8/29/2016 7:48:30 PM: Regular Status was written.
+8/29/2016 7:48:56 PM: Regular Status was written.
+8/29/2016 7:49:52 PM: LoggedOut
